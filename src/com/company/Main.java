@@ -15,5 +15,7 @@ public class Main {
 
         System.out.println("hjhksafgkjh");
         System.out.println("hjhksafgkjh");
+
+        System.out.println("1");
     }
 }
