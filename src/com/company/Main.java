@@ -10,5 +10,7 @@ public class Main {
 
         System.out.println("kjhkjfhas");
         System.out.println("Что-то новое");
+
+        System.out.println("hjhksafgkjh");
     }
 }
